@@ -15,7 +15,6 @@
   <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
   <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Mongodb" width="85px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" /></a>
  <br>
- <br>
 
 ### Github Statistic
 <p align="left">
@@ -24,6 +23,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AjiPerdana38&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<br>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AjiPerdana38&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 <!---
 AjiPerdana38/AjiPerdana38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
