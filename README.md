@@ -1,9 +1,10 @@
+# Halo Everyone!
 - 👋 Hi, I’m @AjiPerdana38
 - 👀 I'm interested in anything related to javascript
 - 🌱 I’m currently learning and will keep to learn the development of the programming world, especially with the javascript language
 - 📫 How to reach me ?
-- Email : ajicooljazz38@gmail.com
-- Instagram : @tromolsupraa
+- Email : [ajicooljazz38@gmail.com](ajicooljazz38@gmail.com)
+- Instagram : [@tromolsupraa](https://www.instagram.com/tromolsupraa/)
 - Phone : +62 856-9595-1121
 
 <!---
