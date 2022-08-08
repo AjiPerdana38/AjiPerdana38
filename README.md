@@ -7,6 +7,7 @@
 - Instagram : [@tromolsupraa](https://www.instagram.com/tromolsupraa/)
 - Phone : +62 856-9595-1121
 
+<!---
 ## Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="#"><img align="left" alt="PHP" title="JavaScript" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
@@ -15,6 +16,7 @@
   <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
   <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Mongodb" width="85px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" /></a>
  <br>
+--->
 
 ## Github Statistic
 <div align="center">
