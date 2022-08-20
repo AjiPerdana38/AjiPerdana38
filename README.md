@@ -6,6 +6,7 @@
 - Email : [ajicooljazz38@gmail.com](ajicooljazz38@gmail.com)
 - Instagram : [@tromolsupraa](https://www.instagram.com/tromolsupraa/)
 - Phone : +62 856-9595-1121
+- LinkedIn : [M Aji Perdana](https://www.linkedin.com/in/m-aji-perdana-3807071bb/)
 
 <!---
 ## Tech Stack
